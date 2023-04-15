@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "fullName": "hero",
+      "email": "hero@gmail.com",
+      "password": "123",
+      "id": 1,
+      "income": [
+        {
+          "type": "income",
+          "category": "salary",
+          "amount": "1200",
+          "date": "2023-04-13"
+        },
+        {
+          "type": "income",
+          "category": "salary",
+          "amount": "1200",
+          "date": "2023-04-13"
+        },
+        {
+          "type": "income",
+          "category": "gifts",
+          "amount": "100",
+          "date": "2023-04-06"
+        }
+      ],
+      "expense": [
+        {
+          "type": "expense",
+          "category": "bills",
+          "amount": "1200",
+          "date": "2023-04-13"
+        },
+        {
+          "type": "expense",
+          "category": "food",
+          "amount": "1234",
+          "date": "2023-04-13"
+        }
+      ]
+    },
+    {
+      "fullName": "shagun",
+      "email": "shagu@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "fullName": "happy",
+      "email": "h@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
